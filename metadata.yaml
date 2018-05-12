@@ -1,0 +1,30 @@
+_repo: The-Red-Widowor-The-Death-Dealers-of-London_46236
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46236-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcc 'PR'
+title: The Red Widow; or, The Death-Dealers of London
+url: http://www.gutenberg.org/ebooks/46236
